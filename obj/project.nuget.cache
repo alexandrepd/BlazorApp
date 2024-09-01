@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EaY9sLVIcG4=",
+  "success": true,
+  "projectFilePath": "/Users/alexandreoliveira/development/projectsCSharp/BlazorApp/BlazorApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexandreoliveira/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/alexandreoliveira/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/alexandreoliveira/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.33/microsoft.netcore.app.host.osx-arm64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
